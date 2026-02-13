@@ -8,7 +8,7 @@ Official portfolio website of Artisticrand — Professional illustrator speciali
 • Commissioned artwork  
 
 Live Website:
-https://YOURUSERNAME.github.io/artisticrand-portfolio
+(https://artisticrand.github.io/artisticrand-portfolio)
 
 Contact:
 Illustratingartist@gmail.com
