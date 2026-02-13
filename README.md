@@ -1,2 +1,14 @@
-# artisticrand-webpage
-Official website of Artisticrand - professional illustrator specializing n book covers , character art, and visual storytelling 
+# Artisticrand Portfolio Website
+
+Official portfolio website of Artisticrand — Professional illustrator specializing in:
+
+• Book cover illustration  
+• Character design  
+• Concept art  
+• Commissioned artwork  
+
+Live Website:
+https://YOURUSERNAME.github.io/artisticrand-portfolio
+
+Contact:
+Illustratingartist@gmail.com
